@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<multpex_config>
+    <SERVIDOR_AUTENTICACAO>https://keycloak.api.gmprod.multipex.com.br/auth/realms/technip/protocol/openid-connect/token</SERVIDOR_AUTENTICACAO>
+    <SERVIDOR_APLICACAO>https://technip.voucher-api.multpex.com.br/apiv2/integracao/consumo?codigo_integracao_unidade=TFMC</SERVIDOR_APLICACAO>
+    <IDENTIFICADOR_CLIENTE>Technip</IDENTIFICADOR_CLIENTE>
+    <CLIENT_ID>Technip</CLIENT_ID>
+    <CLIENT_SECRET>877a63c0-789f-4274-a1f4-66cc807182c3</CLIENT_SECRET>
+    <USERNAME>int_01</USERNAME>
+    <PASSWORD>86Yo2inyOOPBSn3y2w8</PASSWORD>
+</multpex_config>
