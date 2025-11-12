@@ -1,2 +1,4 @@
 .env
 *.log
+.idea/
+tracking_sync.log
